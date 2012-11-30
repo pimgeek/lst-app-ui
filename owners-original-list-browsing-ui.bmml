@@ -176,13 +176,6 @@
                     </control>
                   </groupChildrenDescriptors>
                 </control>
-                <control controlID="82" controlTypeID="com.balsamiq.mockups::Label" x="28" y="291" w="208" h="58" measuredW="18" measuredH="22" zOrder="1" locked="false" isInGroup="0">
-                  <controlProperties>
-                    <href>owners-coll-list-viewing-ui%26bm%3Bowners-coll-list-viewing-ui.bmml%26bm%3Bowners-coll-list-viewing-ui.bmml%26bm%3Bowners-coll-list-viewing-ui.bmml</href>
-                    <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2228%2C438%2C236%2C496%22%20href%3D%22owners-coll-list-viewing-ui.bmml%22%20alt%3D%22owners-coll-list-viewing-ui%22%20id%3D%2282%22/%3E</map>
-                    <text>%20%20%20</text>
-                  </controlProperties>
-                </control>
               </groupChildrenDescriptors>
             </control>
             <control controlID="1" controlTypeID="com.balsamiq.mockups::StickyNote" x="16" y="0" w="251" h="99" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="13">
