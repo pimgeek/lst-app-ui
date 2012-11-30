@@ -57,8 +57,8 @@
                     </control>
                     <control controlID="4" controlTypeID="__group__" x="28" y="208" w="224" h="60" measuredW="224" measuredH="60" zOrder="3" locked="false" isInGroup="44">
                       <controlProperties>
-                        <href>owners-diy-list-viewing-ui%26bm%3Bowners-diy-list-viewing-ui.bmml%26bm%3Bowners-diy-list-viewing-ui.bmml%26bm%3Bowners-diy-list-viewing-ui.bmml</href>
-                        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C360%2C269%2C420%22%20href%3D%22owners-diy-list-viewing-ui.bmml%22%20alt%3D%22owners-diy-list-viewing-ui%22%20id%3D%224%22/%3E</map>
+                        <href>current-user-diy-list-viewing-ui%26bm%3Bcurrent-user-diy-list-viewing-ui.bmml%26bm%3Bcurrent-user-diy-list-viewing-ui.bmml%26bm%3Bcurrent-user-diy-list-viewing-ui.bmml</href>
+                        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C360%2C269%2C420%22%20href%3D%22current-user-diy-list-viewing-ui.bmml%22%20alt%3D%22current-user-diy-list-viewing-ui%22%20id%3D%224%22/%3E</map>
                       </controlProperties>
                       <groupChildrenDescriptors>
                         <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="224" h="60" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="4">
