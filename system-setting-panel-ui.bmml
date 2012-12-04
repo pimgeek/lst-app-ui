@@ -60,11 +60,10 @@
                 <text>%u4F7F%u7528%u8005%u8D26%u53F7%u7BA1%u7406</text>
               </controlProperties>
             </control>
-            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="170" y="5" w="31" h="36" measuredW="36" measuredH="36" zOrder="1" locked="false" isInGroup="44">
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="168" y="9" w="36" h="29" measuredW="48" measuredH="48" zOrder="1" locked="false" isInGroup="44">
               <controlProperties>
-                <borderColor>16777215</borderColor>
-                <icon>UserIcon%7Cmedium</icon>
-                <text/>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22238%2C265%2C274%2C294%22%20href%3D%22system-user-searching-ui.bmml%22%20alt%3D%22system-user-searching-ui%22%20id%3D%222%22/%3E</map>
+                <src>./assets/user-admin-gear.png</src>
               </controlProperties>
             </control>
           </groupChildrenDescriptors>
