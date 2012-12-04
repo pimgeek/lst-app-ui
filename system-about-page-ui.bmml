@@ -1,20 +1,13 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="544" measuredH="797" mockupW="520" mockupH="757">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="517" measuredH="687" mockupW="517" mockupH="638">
   <controls>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::StickyNote" x="24" y="40" w="292" h="93" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>11839446</color>
-        <size>32</size>
-        <text>%u5217%u8868%u62E5%u6709%u8005%u7684%u754C%u9762</text>
-      </controlProperties>
-    </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="45" y="159" w="251" h="93" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="18" y="49" w="251" h="93" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <size>32</size>
         <text>%u7CFB%u7EDF%22%u5173%u4E8E%22%u754C%u9762</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="__group__" x="27" y="287" w="517" h="510" measuredW="517" measuredH="510" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="__group__" x="0" y="177" w="517" h="510" measuredW="517" measuredH="510" zOrder="1" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="10">
           <groupChildrenDescriptors>
@@ -53,7 +46,7 @@
                   <controlProperties>
                     <direction>center</direction>
                     <href>system-setting-panel-ui%26bm%3Bsystem-setting-panel-ui.bmml%26bm%3Bsystem-setting-panel-ui.bmml%26bm%3Bsystem-setting-panel-ui.bmml</href>
-                    <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C351%2C83%2C378%22%20href%3D%22system-setting-panel-ui.bmml%22%20alt%3D%22system-setting-panel-ui%22%20id%3D%222%22/%3E</map>
+                    <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C232%2C80%2C259%22%20href%3D%22system-setting-panel-ui.bmml%22%20alt%3D%22system-setting-panel-ui%22%20id%3D%222%22/%3E</map>
                     <text>%u8FD4%u56DE</text>
                   </controlProperties>
                 </control>
@@ -93,7 +86,7 @@
                 <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="27" y="215" w="163" h="31" measuredW="162" measuredH="30" zOrder="2" locked="false" isInGroup="2">
                   <controlProperties>
                     <hrefs>system-update-processing-ui%26bm%3Bsystem-update-processing-ui.bmml%26bm%3Bsystem-update-processing-ui.bmml%26bm%3Bsystem-update-processing-ui.bmml%2C</hrefs>
-                    <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22331%2C588%2C412%2C619%22%20href%3D%22system-update-processing-ui.bmml%22%20alt%3D%22system-update-processing-ui%22%20id%3D%222_0%22/%3E%0A</map>
+                    <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22328%2C469%2C409%2C500%22%20href%3D%22system-update-processing-ui.bmml%22%20alt%3D%22system-update-processing-ui%22%20id%3D%222_0%22/%3E%0A</map>
                     <text>%u4E0B%u8F7D%u5B89%u88C5%2C%u4EE5%u540E%u518D%u8BF4</text>
                   </controlProperties>
                 </control>

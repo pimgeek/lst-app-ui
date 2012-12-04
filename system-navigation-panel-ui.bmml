@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="282" measuredH="638" mockupW="282" mockupH="638">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="282" measuredH="663" mockupW="282" mockupH="638">
   <controls>
-    <control controlID="8" controlTypeID="__group__" x="0" y="0" w="282" h="638" measuredW="282" measuredH="638" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="__group__" x="0" y="25" w="282" h="638" measuredW="282" measuredH="638" zOrder="0" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::StickyNote" x="18" y="0" w="251" h="93" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="8">
           <controlProperties>
@@ -145,9 +145,7 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="60" controlTypeID="__group__" x="28" y="306" w="196" h="36" measuredW="196" measuredH="36" zOrder="1" locked="false" isInGroup="2">
-              <controlProperties>
-                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2228%2C434%2C224%2C470%22%20href%3D%22system-setting-panel-ui.bmml%22%20alt%3D%22system-setting-panel-ui%22%20id%3D%2260%22/%3E</map>
-              </controlProperties>
+              <controlProperties/>
               <groupChildrenDescriptors>
                 <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="1" w="196" h="34" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="60">
                   <controlProperties>

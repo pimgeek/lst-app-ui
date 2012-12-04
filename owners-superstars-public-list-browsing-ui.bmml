@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="519" measuredH="713" mockupW="488" mockupH="677">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="488" measuredH="722" mockupW="488" mockupH="677">
   <controls>
-    <control controlID="0" controlTypeID="__group__" x="31" y="36" w="488" h="677" measuredW="488" measuredH="677" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="__group__" x="0" y="45" w="488" h="677" measuredW="488" measuredH="677" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>design%20v0.2</controlName>
       </controlProperties>
