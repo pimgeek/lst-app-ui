@@ -1,0 +1,118 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="544" measuredH="797" mockupW="520" mockupH="757">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::StickyNote" x="24" y="40" w="292" h="93" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11839446</color>
+        <size>32</size>
+        <text>%u5217%u8868%u62E5%u6709%u8005%u7684%u754C%u9762</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="45" y="159" w="251" h="93" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>32</size>
+        <text>%u7CFB%u7EDF%22%u5173%u4E8E%22%u754C%u9762</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="__group__" x="27" y="287" w="517" h="510" measuredW="517" measuredH="510" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="10">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="0"/>
+            <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="164" y="193" w="89" h="28" measuredW="83" measuredH="27" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <bold>true</bold>
+                <size>18</size>
+                <text>TEAMKN</text>
+              </controlProperties>
+            </control>
+            <control controlID="51" controlTypeID="com.balsamiq.mockups::Image" x="71" y="163" w="89" h="89" measuredW="180" measuredH="180" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <src>./assets/mindpin-alpha-logo.jpg</src>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="53" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="34" y="267" w="-1" h="-1" measuredW="215" measuredH="126" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <text>%u5F53%u524D%u7248%u672C%2C%20%200.6%0A%u6B22%u8FCE%u9875%u9762%2C%20%20%3E%0A%u529F%u80FD%u4ECB%u7ECD%2C%20%20%3E%0A%u68C0%u67E5%u65B0%u7248%2C%20%20%3E</text>
+              </controlProperties>
+            </control>
+            <control controlID="54" controlTypeID="__group__" x="28" y="99" w="222" h="37" measuredW="222" measuredH="37" zOrder="4" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="222" h="37" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="54">
+                  <controlProperties>
+                    <align>center</align>
+                    <bold>true</bold>
+                    <size>18</size>
+                    <state>up</state>
+                    <text>%20%20%20%20%u5173%u4E8E%20TEAMKN</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="5" y="5" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="54">
+                  <controlProperties>
+                    <direction>center</direction>
+                    <href>system-setting-panel-ui%26bm%3Bsystem-setting-panel-ui.bmml%26bm%3Bsystem-setting-panel-ui.bmml%26bm%3Bsystem-setting-panel-ui.bmml</href>
+                    <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C351%2C83%2C378%22%20href%3D%22system-setting-panel-ui.bmml%22%20alt%3D%22system-setting-panel-ui%22%20id%3D%222%22/%3E</map>
+                    <text>%u8FD4%u56DE</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="242" y="126" w="275" h="261" measuredW="275" measuredH="261" zOrder="1" locked="false" isInGroup="10">
+          <groupChildrenDescriptors>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Arrow" x="0" y="196" w="77" h="59" measuredW="150" measuredH="100" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <curvature>-1</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="__group__" x="59" y="0" w="216" h="261" measuredW="216" measuredH="261" zOrder="0" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="216" h="261" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <backgroundAlpha>1</backgroundAlpha>
+                    <text>%u5E94%u7528%u66F4%u65B0%u63D0%u793A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="20" y="82" w="176" h="122" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <align>left</align>
+                    <bold>false</bold>
+                    <borderColor>16777215</borderColor>
+                    <color>16777215</color>
+                    <size>14</size>
+                    <state>up</state>
+                    <text>%u6700%u65B0%u7248%u672C%3A%20TEAMKN%201.3%0A%u65B0%u589E%u529F%u80FD%3A%0A1.%20xxx%0A2.%20yyy%0A3.%20zzz%0A%u5B89%u88C5%u5305%u5927%u5C0F%3A%202.8%20MB</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="27" y="215" w="163" h="31" measuredW="162" measuredH="30" zOrder="2" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <hrefs>system-update-processing-ui%26bm%3Bsystem-update-processing-ui.bmml%26bm%3Bsystem-update-processing-ui.bmml%26bm%3Bsystem-update-processing-ui.bmml%2C</hrefs>
+                    <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22331%2C588%2C412%2C619%22%20href%3D%22system-update-processing-ui.bmml%22%20alt%3D%22system-update-processing-ui%22%20id%3D%222_0%22/%3E%0A</map>
+                    <text>%u4E0B%u8F7D%u5B89%u88C5%2C%u4EE5%u540E%u518D%u8BF4</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="12" y="22" w="192" h="51" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <align>center</align>
+                    <bold>true</bold>
+                    <borderColor>15658734</borderColor>
+                    <color>16777215</color>
+                    <size>16</size>
+                    <state>focused</state>
+                    <text>TEAMKN%u6709%u65B0%u7248%u672C%0A%u662F%u5426%u73B0%u5728%u66F4%u65B0%3F</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
