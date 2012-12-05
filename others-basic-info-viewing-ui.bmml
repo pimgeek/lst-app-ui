@@ -142,23 +142,31 @@
                 <bold>true</bold>
                 <color>9684093</color>
                 <size>32</size>
-                <text>%u6CE8%u610F%21%0A%u5F53%u524D%u4F7F%u7528%u8005%u4ECE%u4E0D%u540C%u7684%u754C%u9762%0A%u70B9%u51FB%u5176%u4ED6%u4F7F%u7528%u8005%u5934%u50CF%u5230%u8FBE%0A%u6B64%u754C%u9762%u65F6%2C%20%0A%20%0A%u4F7F%u7528%u8005%u7B80%u4ECB%u4E0A%u7684%u8FD4%u56DE%u6309%u94AE%u5E94%0A%u6307%u5411%u641C%u7D22%u754C%u9762%u4E4B%u524D%u6240%u5728%u7684%u754C%0A%u9762</text>
+                <text>%u6CE8%u610F%21%0A%u5F53%u524D%u4F7F%u7528%u8005%u4ECE%u4E0D%u540C%u7684%u754C%u9762%0A%u70B9%u51FB%u5176%u4ED6%u4F7F%u7528%u8005%u5934%u50CF%u5230%u8FBE%0A%u6B64%u754C%u9762%u65F6%2C%20%0A%20%0A%u4F7F%u7528%u8005%u7B80%u4ECB%u4E0A%u7684%u8FD4%u56DE%u6309%u94AE%u5E94%0A%u6307%u5411%u4F7F%u7528%u8005%u6B64%u524D%u6240%u5728%u7684%u754C%u9762</text>
               </controlProperties>
             </control>
-            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="63" y="307" w="-1" h="-1" measuredW="99" measuredH="27" zOrder="1" locked="false" isInGroup="2">
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="28" y="311" w="-1" h="-1" measuredW="99" measuredH="27" zOrder="1" locked="false" isInGroup="2">
               <controlProperties>
                 <direction>center</direction>
                 <href>owners-social-network-browsing-ui%26bm%3Bowners-social-network-browsing-ui.bmml%26bm%3Bowners-social-network-browsing-ui.bmml%26bm%3Bowners-social-network-browsing-ui.bmml</href>
-                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22490%2C564%2C589%2C591%22%20href%3D%22owners-social-network-browsing-ui.bmml%22%20alt%3D%22owners-social-network-browsing-ui%22%20id%3D%221%22/%3E</map>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22455%2C568%2C554%2C595%22%20href%3D%22owners-social-network-browsing-ui.bmml%22%20alt%3D%22owners-social-network-browsing-ui%22%20id%3D%221%22/%3E</map>
                 <text>%u8FD4%u56DE%u793E%u4EA4%u4E2D%u5FC3</text>
               </controlProperties>
             </control>
-            <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="177" y="307" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="2" locked="false" isInGroup="2">
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="142" y="311" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="2" locked="false" isInGroup="2">
               <controlProperties>
                 <direction>center</direction>
                 <href>all-users-public-list-browsing-ui%26bm%3Ball-users-public-list-browsing-ui.bmml%26bm%3Ball-users-public-list-browsing-ui.bmml%26bm%3Ball-users-public-list-browsing-ui.bmml</href>
-                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22604%2C564%2C716%2C591%22%20href%3D%22all-users-public-list-browsing-ui.bmml%22%20alt%3D%22all-users-public-list-browsing-ui%22%20id%3D%223%22/%3E</map>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22569%2C568%2C681%2C595%22%20href%3D%22all-users-public-list-browsing-ui.bmml%22%20alt%3D%22all-users-public-list-browsing-ui%22%20id%3D%223%22/%3E</map>
                 <text>%u8FD4%u56DE%u516C%u5F00%u7684%u5217%u8868</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="269" y="311" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="3" locked="false" isInGroup="2">
+              <controlProperties>
+                <direction>center</direction>
+                <href>system-user-searching-ui%26bm%3Bsystem-user-searching-ui.bmml%26bm%3Bsystem-user-searching-ui.bmml%26bm%3Bsystem-user-searching-ui.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22696%2C568%2C808%2C595%22%20href%3D%22system-user-searching-ui.bmml%22%20alt%3D%22system-user-searching-ui%22%20id%3D%224%22/%3E</map>
+                <text>%u8FD4%u56DE%u627E%u670B%u53CB%u754C%u9762</text>
               </controlProperties>
             </control>
           </groupChildrenDescriptors>
