@@ -35,7 +35,10 @@
               </groupChildrenDescriptors>
             </control>
             <control controlID="7" controlTypeID="__group__" x="42" y="189" w="70" h="36" measuredW="70" measuredH="36" zOrder="2" locked="false" isInGroup="27">
-              <controlProperties/>
+              <controlProperties>
+                <href>owners-basic-info-viewing-ui%26bm%3Bowners-basic-info-viewing-ui.bmml%26bm%3Bowners-basic-info-viewing-ui.bmml%26bm%3Bowners-basic-info-viewing-ui.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2280%2C310%2C150%2C346%22%20href%3D%22owners-basic-info-viewing-ui.bmml%22%20alt%3D%22owners-basic-info-viewing-ui%22%20id%3D%227%22/%3E</map>
+              </controlProperties>
               <groupChildrenDescriptors>
                 <control controlID="4" controlTypeID="__group__" x="0" y="0" w="70" h="36" measuredW="70" measuredH="36" zOrder="0" locked="false" isInGroup="7">
                   <controlProperties/>
@@ -96,6 +99,7 @@
             </control>
             <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="46" y="362" w="188" h="46" measuredW="115" measuredH="27" zOrder="7" locked="false" isInGroup="27">
               <controlProperties>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2284%2C483%2C272%2C529%22%20href%3D%22owners-basic-info-viewing-ui.bmml%22%20alt%3D%22owners-basic-info-viewing-ui%22%20id%3D%2222%22/%3E</map>
                 <text>%u5C0F%u5F3A%u7684%u516C%u5F00%u5217%u8868</text>
               </controlProperties>
             </control>
