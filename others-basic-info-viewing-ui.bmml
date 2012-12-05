@@ -1,8 +1,8 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="874" measuredH="679" mockupW="825" mockupH="618">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="874" measuredH="670" mockupW="860" mockupH="629">
   <controls>
-    <control controlID="3" controlTypeID="__group__" x="49" y="61" w="352" h="618" measuredW="352" measuredH="618" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="__group__" x="14" y="41" w="423" h="627" measuredW="423" measuredH="627" zOrder="0" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="__group__" x="35" y="108" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="3">
+        <control controlID="0" controlTypeID="__group__" x="70" y="117" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="3">
           <controlProperties>
             <controlName>design%20v0.2</controlName>
           </controlProperties>
@@ -82,18 +82,18 @@
             <control controlID="82" controlTypeID="com.balsamiq.mockups::Button" x="46" y="350" w="188" h="46" measuredW="115" measuredH="27" zOrder="7" locked="false" isInGroup="0">
               <controlProperties>
                 <href>single-user-public-list-browsing-ui%26bm%3Bsingle-user-public-list-browsing-ui.bmml%26bm%3Bsingle-user-public-list-browsing-ui.bmml%26bm%3Bsingle-user-public-list-browsing-ui.bmml</href>
-                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2281%2C458%2C269%2C504%22%20href%3D%22single-user-public-list-browsing-ui.bmml%22%20alt%3D%22single-user-public-list-browsing-ui%22%20id%3D%2282%22/%3E</map>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C467%2C304%2C513%22%20href%3D%22single-user-public-list-browsing-ui.bmml%22%20alt%3D%22single-user-public-list-browsing-ui%22%20id%3D%2282%22/%3E</map>
                 <text>%u963F%u6770%u7684%u516C%u5F00%u5217%u8868</text>
               </controlProperties>
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::StickyNote" x="0" y="0" w="352" h="81" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="3">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::StickyNote" x="0" y="0" w="423" h="81" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="3">
           <controlProperties>
             <align>center</align>
             <bold>false</bold>
             <size>32</size>
-            <text>%u67E5%u770B%u5176%u4ED6%u4EBA%u7684%u7528%u6237%u4FE1%u606F</text>
+            <text>%u67E5%u770B%u5176%u4ED6%u4F7F%u7528%u8005%u7684%u57FA%u672C%u4FE1%u606F</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
@@ -149,7 +149,7 @@
               <controlProperties>
                 <direction>center</direction>
                 <href>owners-social-network-browsing-ui%26bm%3Bowners-social-network-browsing-ui.bmml%26bm%3Bowners-social-network-browsing-ui.bmml%26bm%3Bowners-social-network-browsing-ui.bmml</href>
-                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22455%2C544%2C554%2C571%22%20href%3D%22owners-social-network-browsing-ui.bmml%22%20alt%3D%22owners-social-network-browsing-ui%22%20id%3D%221%22/%3E</map>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22490%2C564%2C589%2C591%22%20href%3D%22owners-social-network-browsing-ui.bmml%22%20alt%3D%22owners-social-network-browsing-ui%22%20id%3D%221%22/%3E</map>
                 <text>%u8FD4%u56DE%u793E%u4EA4%u4E2D%u5FC3</text>
               </controlProperties>
             </control>
@@ -157,7 +157,7 @@
               <controlProperties>
                 <direction>center</direction>
                 <href>all-users-public-list-browsing-ui%26bm%3Ball-users-public-list-browsing-ui.bmml%26bm%3Ball-users-public-list-browsing-ui.bmml%26bm%3Ball-users-public-list-browsing-ui.bmml</href>
-                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22569%2C544%2C681%2C571%22%20href%3D%22all-users-public-list-browsing-ui.bmml%22%20alt%3D%22all-users-public-list-browsing-ui%22%20id%3D%223%22/%3E</map>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22604%2C564%2C716%2C591%22%20href%3D%22all-users-public-list-browsing-ui.bmml%22%20alt%3D%22all-users-public-list-browsing-ui%22%20id%3D%223%22/%3E</map>
                 <text>%u8FD4%u56DE%u516C%u5F00%u7684%u5217%u8868</text>
               </controlProperties>
             </control>
