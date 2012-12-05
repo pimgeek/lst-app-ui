@@ -133,7 +133,6 @@
                 </control>
                 <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="186" y="3" w="36" h="29" measuredW="64" measuredH="64" zOrder="3" locked="false" isInGroup="3">
                   <controlProperties>
-                    <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22570%2C208%2C606%2C237%22%20href%3D%22system-user-searching-ui.bmml%22%20alt%3D%22system-user-searching-ui%22%20id%3D%223%22/%3E</map>
                     <src>./assets/find-user.png</src>
                   </controlProperties>
                 </control>
@@ -157,7 +156,7 @@
                       <controlProperties>
                         <bold>true</bold>
                         <size>12</size>
-                        <text>%u5218%u603B</text>
+                        <text>%u963F%u6770</text>
                       </controlProperties>
                     </control>
                     <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="35" h="35" measuredW="400" measuredH="322" zOrder="1" locked="false" isInGroup="4">
@@ -253,7 +252,6 @@
                 </control>
                 <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="186" y="3" w="36" h="29" measuredW="64" measuredH="64" zOrder="2" locked="false" isInGroup="3">
                   <controlProperties>
-                    <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22892%2C208%2C928%2C237%22%20href%3D%22system-user-searching-ui.bmml%22%20alt%3D%22system-user-searching-ui%22%20id%3D%223%22/%3E</map>
                     <src>./assets/find-user.png</src>
                   </controlProperties>
                 </control>
