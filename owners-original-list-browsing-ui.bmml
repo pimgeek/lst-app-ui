@@ -26,9 +26,9 @@
                         <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="6" y="5" w="32" h="-1" measuredW="37" measuredH="27" zOrder="1" locked="false" isInGroup="11">
                           <controlProperties>
                             <direction>center</direction>
-                            <href>system-navigation-panel-ui%26bm%3Bsystem-navigation-panel-ui.bmml%26bm%3Bsystem-navigation-panel-ui.bmml%26bm%3Bsystem-navigation-panel-ui.bmml</href>
+                            <href>app-navigation-pipe-group-ui%26bm%3Bapp-navigation-pipe-group-ui.bmml%26bm%3Bapp-navigation-pipe-group-ui.bmml%26bm%3Bapp-navigation-pipe-group-ui.bmml</href>
                             <icon>ListIcon%7Cxsmall</icon>
-                            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C251%2C65%2C278%22%20href%3D%22system-navigation-panel-ui.bmml%22%20alt%3D%22system-navigation-panel-ui%22%20id%3D%221%22/%3E</map>
+                            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C251%2C65%2C278%22%20href%3D%22app-navigation-pipe-group-ui.bmml%22%20alt%3D%22app-navigation-pipe-group-ui%22%20id%3D%221%22/%3E</map>
                             <text/>
                           </controlProperties>
                         </control>
