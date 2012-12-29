@@ -161,9 +161,9 @@
                     <control controlID="8" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="238" y="203" w="-1" h="186" measuredW="16" measuredH="100" zOrder="6" locked="false" isInGroup="44"/>
                     <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="222" y="164" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="44">
                       <controlProperties>
-                        <href>general-list-searching-ui%26bm%3Bgeneral-list-searching-ui.bmml%26bm%3Bgeneral-list-searching-ui.bmml%26bm%3Bgeneral-list-searching-ui.bmml</href>
+                        <href>app-search-lists-and-users-pipe-group-ui%26bm%3Bapp-search-lists-and-users-pipe-group-ui.bmml%26bm%3Bapp-search-lists-and-users-pipe-group-ui.bmml%26bm%3Bapp-search-lists-and-users-pipe-group-ui.bmml</href>
                         <icon>SearchIcon%7Csmall</icon>
-                        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22239%2C316%2C263%2C340%22%20href%3D%22general-list-searching-ui.bmml%22%20alt%3D%22general-list-searching-ui%22%20id%3D%229%22/%3E</map>
+                        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22239%2C316%2C263%2C340%22%20href%3D%22app-search-lists-and-users-pipe-group-ui.bmml%22%20alt%3D%22app-search-lists-and-users-pipe-group-ui%22%20id%3D%229%22/%3E</map>
                       </controlProperties>
                     </control>
                   </groupChildrenDescriptors>

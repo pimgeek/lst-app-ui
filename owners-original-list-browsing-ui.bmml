@@ -167,9 +167,9 @@
                         </control>
                         <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="193" y="3" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="35">
                           <controlProperties>
-                            <href>general-list-searching-ui%26bm%3Bgeneral-list-searching-ui.bmml%26bm%3Bgeneral-list-searching-ui.bmml%26bm%3Bgeneral-list-searching-ui.bmml</href>
+                            <href>app-search-lists-and-users-pipe-group-ui%26bm%3Bapp-search-lists-and-users-pipe-group-ui.bmml%26bm%3Bapp-search-lists-and-users-pipe-group-ui.bmml%26bm%3Bapp-search-lists-and-users-pipe-group-ui.bmml</href>
                             <icon>SearchIcon%7Csmall</icon>
-                            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22220%2C305%2C244%2C329%22%20href%3D%22general-list-searching-ui.bmml%22%20alt%3D%22general-list-searching-ui%22%20id%3D%228%22/%3E</map>
+                            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22220%2C305%2C244%2C329%22%20href%3D%22app-search-lists-and-users-pipe-group-ui.bmml%22%20alt%3D%22app-search-lists-and-users-pipe-group-ui%22%20id%3D%228%22/%3E</map>
                           </controlProperties>
                         </control>
                       </groupChildrenDescriptors>
